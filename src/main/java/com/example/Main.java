@@ -67,7 +67,7 @@ public class App {
             System.out.println("here 11 "+e.getMessage());
         }
         return conn;
-    }
+    }/**
     
     public void timerfunction(Timestamp startTime,Timestamp endTime) throws SQLException {
         
@@ -75,7 +75,7 @@ public class App {
         
         Timer timer = new Timer();
         timer.schedule(new TimerClass(startTime,endTime), 0, 5000);
-    }
+    } **/
     
 }
 
