@@ -16,7 +16,7 @@ package com;
 *
 * @author pandhir
 */
-public class App {
+public class Main {
     
     private final String url = "jdbc:postgresql://ec2-23-21-188-236.compute-1.amazonaws.com:5432/df65a718i89dtb";
     private final String user = "xyjjlzjifvyfzq";
